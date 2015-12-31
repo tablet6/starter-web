@@ -16,5 +16,7 @@ And the deployment
 
 ## How To Contribute
 
+Fork this repo
+
 ### Copyright
 notice
