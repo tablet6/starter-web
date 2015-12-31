@@ -15,3 +15,6 @@ Here is the purpose
 And the deployment
 
 ## How To Contribute
+
+### Copyright
+notice
